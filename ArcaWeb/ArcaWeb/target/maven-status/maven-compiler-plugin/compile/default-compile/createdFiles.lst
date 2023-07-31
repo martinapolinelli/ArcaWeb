@@ -1,0 +1,13 @@
+integration\AnimaleDto.class
+presentation\pojo\Animale.class
+presentation\provider\ProviderFilter.class
+business\Arca.class
+presentation\rest\ArcaRest.class
+presentation\servlets\JDBCDataSourceExample.class
+integration\ConnectionManager.class
+presentation\servlets\ArcaDao.class
+business\ImbarcaException.class
+presentation\application\ArcaApplication.class
+presentation\rest\Hello.class
+business\Arca$1.class
+business\AnimaleNonPresenteException.class
